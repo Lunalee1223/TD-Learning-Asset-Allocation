@@ -5,7 +5,7 @@ This repository contains the implementation of a **Temporal Difference (TD) Lear
 
 ## Repository Structure
 - `p1_2.ipynb` - Jupyter Notebook containing the implementation, training, and evaluation.
-- `report.tex` - LaTeX report detailing the methodology and findings.
+- `Report.pdf` - Report detailing the methodology and findings.
 - `README.md` - Documentation for understanding and running the project.
 
 ## Repository Link
